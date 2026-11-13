@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heart Meter</string>
+    <string name="widget_description">Claude plan usage as hearts and a magic meter</string>
+</resources>
